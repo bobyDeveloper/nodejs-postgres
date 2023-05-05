@@ -1,4 +1,4 @@
-var url = "http://localhost:3300/api/videogames";
+var url = "https://api-videogames-service-bobydeveloper.cloud.okteto.net/api/videogames";
 
 function postVideogames() {
 
